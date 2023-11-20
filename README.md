@@ -4,7 +4,7 @@
 
 Simple text editor that runs in the browser
 
-![J.A.T.E.](https://salty-eyrie-14505-cc3b5c43a96e.herokuapp.com/)
+[J.A.T.E.](https://salty-eyrie-14505-cc3b5c43a96e.herokuapp.com/)
 
 ![Alt text](image.png)
 
